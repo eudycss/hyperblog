@@ -1,2 +1,2 @@
 sebas esta aprendiendo git
-vamos a probar comando dig diff
+vamos a probar comando dig diff y creamos html y css
