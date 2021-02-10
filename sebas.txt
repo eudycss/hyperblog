@@ -1,2 +1,2 @@
 sebas esta aprendiendo git
-vamos a probar comando dig diff y creamos html y css
+vamos a probar comando dig diff y creamos index.html y carpta css/estilos.css
