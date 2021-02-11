@@ -1,2 +1,5 @@
 sebas esta aprendiendo git
+
 esto era git diff es modificado
+
+Sebas contribuye a este proyecto
