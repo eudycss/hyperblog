@@ -8,3 +8,4 @@ Curso Profesional de git y github
 Ya mismo el sitio web [aqui](www.almost.com)
 * Creado por Sebas
 * inlcuye ejempos linux y mac
+* Disponible para todas las edades
