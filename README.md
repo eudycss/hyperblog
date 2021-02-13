@@ -7,3 +7,5 @@ Curso Profesional de git y github
 **Probando markdown**
 Ya mismo el sitio web [aqui](www.almost.com)
 * Creado por Sebas
+* inlcuye ejempos linux y mac
+* Disponible para todas las edades
